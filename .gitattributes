@@ -1,231 +1,427 @@
-# HistoryJanus baseline begin
-*.1 filter=lfs diff=lfs merge=lfs -text
-*.48719 text eol=lf
-*.7z filter=lfs diff=lfs merge=lfs -text
-*.@msg filter=lfs diff=lfs merge=lfs -text
-*.a filter=lfs diff=lfs merge=lfs -text
-*.a51 text eol=lf
-*.administrator text eol=lf
-*.ap15 text eol=lf
-*.asm filter=lfs diff=lfs merge=lfs -text
-*.asmdef text eol=lf
-*.asset text eol=lf
-*.autosave filter=lfs diff=lfs merge=lfs -text
-*.avi filter=lfs diff=lfs merge=lfs -text
-*.baml filter=lfs diff=lfs merge=lfs -text
-*.bin filter=lfs diff=lfs merge=lfs -text
-*.bip filter=lfs diff=lfs merge=lfs -text
-*.blend filter=lfs diff=lfs merge=lfs -text
-*.bmp filter=lfs diff=lfs merge=lfs -text
-*.bomdoc text eol=lf
-*.c text eol=lf
-*.caj filter=lfs diff=lfs merge=lfs -text
-*.cat filter=lfs diff=lfs merge=lfs -text
-*.cfg filter=lfs diff=lfs merge=lfs -text
-*.cfs filter=lfs diff=lfs merge=lfs -text
-*.ckt text eol=lf
-*.cmd text eol=lf
-*.cnk filter=lfs diff=lfs merge=lfs -text
-*.config text eol=lf
-*.cpp text eol=lf
-*.cs text eol=lf
-*.csproj text eol=lf
-*.csv text eol=lf
-*.dat filter=lfs diff=lfs merge=lfs -text
-*.db filter=lfs diff=lfs merge=lfs -text
-*.db-shm filter=lfs diff=lfs merge=lfs -text
-*.db-wal filter=lfs diff=lfs merge=lfs -text
-*.del filter=lfs diff=lfs merge=lfs -text
-*.dft filter=lfs diff=lfs merge=lfs -text
-*.dll filter=lfs diff=lfs merge=lfs -text
-*.doc filter=lfs diff=lfs merge=lfs -text
-*.docm filter=lfs diff=lfs merge=lfs -text
-*.docx filter=lfs diff=lfs merge=lfs -text
-*.dti text eol=lf
-*.dwg filter=lfs diff=lfs merge=lfs -text
-*.dwlt text eol=lf
-*.dxf text eol=lf
-*.dylib filter=lfs diff=lfs merge=lfs -text
-*.editorconfig text eol=lf
-*.err text eol=lf
-*.exe filter=lfs diff=lfs merge=lfs -text
-*.fdt filter=lfs diff=lfs merge=lfs -text
-*.fdx filter=lfs diff=lfs merge=lfs -text
-*.fig filter=lfs diff=lfs merge=lfs -text
-*.filters text eol=lf
-*.flv filter=lfs diff=lfs merge=lfs -text
-*.fnm text eol=lf
-*.frq text eol=lf
-*.gen filter=lfs diff=lfs merge=lfs -text
-*.guid text eol=lf
-*.gx3 filter=lfs diff=lfs merge=lfs -text
-*.gz filter=lfs diff=lfs merge=lfs -text
-*.h text eol=lf
-*.hex filter=lfs diff=lfs merge=lfs -text
-*.htm text eol=lf
-*.html text eol=lf
-*.http text eol=lf
-*.ico filter=lfs diff=lfs merge=lfs -text
-*.id filter=lfs diff=lfs merge=lfs -text
-*.idx filter=lfs diff=lfs merge=lfs -text
-*.iex text eol=lf
-*.igs filter=lfs diff=lfs merge=lfs -text
-*.index filter=lfs diff=lfs merge=lfs -text
-*.inf text eol=lf
-*.ini text eol=lf
-*.ino text eol=lf
-*.inp0 text eol=lf
-*.inpx text eol=lf
-*.intlib filter=lfs diff=lfs merge=lfs -text
-*.ipch filter=lfs diff=lfs merge=lfs -text
-*.jar filter=lfs diff=lfs merge=lfs -text
-*.jfif filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
-*.JPG filter=lfs diff=lfs merge=lfs -text
-*.js text eol=lf
-*.json text eol=lf
-*.jt filter=lfs diff=lfs merge=lfs -text
-*.ksp filter=lfs diff=lfs merge=lfs -text
-*.lastbuildstate text eol=lf
-*.layx text eol=lf
-*.lib filter=lfs diff=lfs merge=lfs -text
-*.libpkg text eol=lf
-*.lnk filter=lfs diff=lfs merge=lfs -text
-*.lnp text eol=lf
-*.lst text eol=lf
-*.m text eol=lf
-*.m51 text eol=lf
-*.manifest text eol=lf
-*.mcam filter=lfs diff=lfs merge=lfs -text
-*.mcam-control filter=lfs diff=lfs merge=lfs -text
-*.mcam-gmd filter=lfs diff=lfs merge=lfs -text
-*.mcam-lmd filter=lfs diff=lfs merge=lfs -text
-*.mcam-mmd filter=lfs diff=lfs merge=lfs -text
-*.mcam-rmd filter=lfs diff=lfs merge=lfs -text
-*.mcam-wmd filter=lfs diff=lfs merge=lfs -text
-*.md text eol=lf
-*.mdl text eol=lf
-*.meta text eol=lf
-*.mkv filter=lfs diff=lfs merge=lfs -text
-*.mltbx filter=lfs diff=lfs merge=lfs -text
-*.mod text eol=lf
-*.mov filter=lfs diff=lfs merge=lfs -text
-*.mp3 filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-*.nc text eol=lf
-*.nfproj text eol=lf
-*.nupkg filter=lfs diff=lfs merge=lfs -text
-*.original filter=lfs diff=lfs merge=lfs -text
-*.p7s filter=lfs diff=lfs merge=lfs -text
-*.par filter=lfs diff=lfs merge=lfs -text
-*.pcbdoc filter=lfs diff=lfs merge=lfs -text
-*.pcblib filter=lfs diff=lfs merge=lfs -text
-*.pdbx text eol=lf
-*.pdf filter=lfs diff=lfs merge=lfs -text
-*.pe filter=lfs diff=lfs merge=lfs -text
-*.pl filter=lfs diff=lfs merge=lfs -text
-*.plf filter=lfs diff=lfs merge=lfs -text
-*.plg text eol=lf
-*.pma15_0 filter=lfs diff=lfs merge=lfs -text
-*.png filter=lfs diff=lfs merge=lfs -text
-*.pptx filter=lfs diff=lfs merge=lfs -text
-*.prefab text eol=lf
-*.pri filter=lfs diff=lfs merge=lfs -text
-*.projitems text eol=lf
-*.props text eol=lf
-*.prp filter=lfs diff=lfs merge=lfs -text
-*.prproj filter=lfs diff=lfs merge=lfs -text
-*.prt filter=lfs diff=lfs merge=lfs -text
-*.prtpl filter=lfs diff=lfs merge=lfs -text
-*.prx filter=lfs diff=lfs merge=lfs -text
-*.ps1 text eol=lf
-*.psb filter=lfs diff=lfs merge=lfs -text
-*.psm filter=lfs diff=lfs merge=lfs -text
-*.pst text eol=lf
-*.pubxml text eol=lf
-*.pwx filter=lfs diff=lfs merge=lfs -text
-*.py text eol=lf
-*.pyc filter=lfs diff=lfs merge=lfs -text
-*.pyproj text eol=lf
-*.qml text eol=lf
-*.r2021a filter=lfs diff=lfs merge=lfs -text
-*.razor text eol=lf
-*.rdf filter=lfs diff=lfs merge=lfs -text
-*.recipe text eol=lf
-*.resources filter=lfs diff=lfs merge=lfs -text
-*.resx text eol=lf
-*.rld filter=lfs diff=lfs merge=lfs -text
-*.rlf text eol=lf
-*.rsf text eol=lf
-*.rslib filter=lfs diff=lfs merge=lfs -text
-*.rsproj text eol=lf
-*.rsstnx text eol=lf
-*.rsuser text eol=lf
-*.rul text eol=lf
-*.schdoc filter=lfs diff=lfs merge=lfs -text
-*.schlib filter=lfs diff=lfs merge=lfs -text
-*.scr text eol=lf
-*.set text eol=lf
-*.settings text eol=lf
-*.sev text eol=lf
-*.shproj text eol=lf
-*.sldasm filter=lfs diff=lfs merge=lfs -text
-*.slddrw filter=lfs diff=lfs merge=lfs -text
-*.sldprt filter=lfs diff=lfs merge=lfs -text
-*.sln text eol=lf
-*.slx filter=lfs diff=lfs merge=lfs -text
-*.so filter=lfs diff=lfs merge=lfs -text
-*.srt filter=lfs diff=lfs merge=lfs -text
-*.step filter=lfs diff=lfs merge=lfs -text
-*.stp text eol=lf
-*.sys filter=lfs diff=lfs merge=lfs -text
-*.targets text eol=lf
-*.tii filter=lfs diff=lfs merge=lfs -text
-*.tis filter=lfs diff=lfs merge=lfs -text
-*.tooldb filter=lfs diff=lfs merge=lfs -text
-*.tvd filter=lfs diff=lfs merge=lfs -text
-*.tvf filter=lfs diff=lfs merge=lfs -text
-*.tvx filter=lfs diff=lfs merge=lfs -text
-*.txt text eol=lf
-*.unity text eol=lf
-*.uvopt text eol=lf
-*.uvproj text eol=lf
-*.v2 filter=lfs diff=lfs merge=lfs -text
-*.vb text eol=lf
-*.vbproj text eol=lf
-*.vcxproj text eol=lf
-*.vxd filter=lfs diff=lfs merge=lfs -text
-*.wmv filter=lfs diff=lfs merge=lfs -text
-*.xaml text eol=lf
-*.xls filter=lfs diff=lfs merge=lfs -text
-*.xlsx filter=lfs diff=lfs merge=lfs -text
-*.xmind filter=lfs diff=lfs merge=lfs -text
-*.xml text eol=lf
-*.xmp text eol=lf
-*.x_t filter=lfs diff=lfs merge=lfs -text
-*.yml text eol=lf
-*.zheng text eol=lf
-*.zw1 filter=lfs diff=lfs merge=lfs -text
-*._ text eol=lf
-# HistoryJanus baseline end
+# 极保守 LFS 策略：不按扩展名批量套 LFS。
+# 旧的按扩展名通配（*.asm / *.baml 这类文本也在内）是 11GB LFS 占用
+# 与推送被 GitHub pre-receive 拒收的根因。
+# 下面只逐条列出**已经是 LFS 指针**的现存文件，保证这些指针不失效；
+# 新文件一律不自动进 LFS——只有单个文件超过 GitHub 100MB 硬限时，
+# 才由提交链路逐个征求人工同意后按精确路径追加。
+* text=auto
 
-*.JPG filter=lfs diff=lfs merge=lfs -text
-*.PNG filter=lfs diff=lfs merge=lfs -text
-*.pdf filter=lfs diff=lfs merge=lfs -text
-*.stp filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
-*.mkv filter=lfs diff=lfs merge=lfs -text
-*.wmv filter=lfs diff=lfs merge=lfs -text
-*.flv filter=lfs diff=lfs merge=lfs -text
-\# filter=lfs diff=lfs merge=lfs -text
-常见视频格式 filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-*.mov filter=lfs diff=lfs merge=lfs -text
-*.avi filter=lfs diff=lfs merge=lfs -text
-Pro filter=lfs diff=lfs merge=lfs -text
-工程文件 filter=lfs diff=lfs merge=lfs -text
-*.prproj filter=lfs diff=lfs merge=lfs -text
-*.prp filter=lfs diff=lfs merge=lfs -text
-*.prtpl filter=lfs diff=lfs merge=lfs -text
-*.pl filter=lfs diff=lfs merge=lfs -text
-Premiere filter=lfs diff=lfs merge=lfs -text
+b-Module-2D/工程图.dwg filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/0-警务机器人.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/0-警务机器人.cfg filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/1-Athena2.0标准版本（三元锂电池）.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/1-Athena2.0标准版本（三元锂电池）.cfg filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/2-1-1-结构件主体.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/2-1-结构件主件.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/2-1-结构件主件.cfg filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/2-结构件.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/2-结构件.cfg filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-1-1-前面板主件.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-1-2-前面板面板.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-1-3-前面板链接.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-1-4-前面板顶.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-1-钣金件前面板.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-1-钣金件前面板.cfg filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-2-1-18.5寸屏幕主件.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-2-后尾兜.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-3-1-边条下钣金.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-3-2-边条上钣金.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-3-3-边条后板.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-3-后尾桶.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-3-边条.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-3-边条.cfg filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-3-边条.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-4-后尾箱.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-5-1-后尾桶主体.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-5-2-后尾桶侧板1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-5-2-后尾桶侧板2.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-5-3-后尾桶拐角.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-5-n-后尾桶未拆.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-5-后尾桶.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-5-后尾桶.cfg filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-钣金件.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/3-钣金件.cfg filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/4-1-屏幕主件.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/4-2-大屏幕连接件.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/4-大屏幕.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/4-大屏幕.cfg filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/5-1-屏幕连接件.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/5-2-宸为13.5寸屏幕.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/5-3-上屏幕钣金件.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/5-上屏幕.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/5-上屏幕.cfg filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/6-1-电脑安装板.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/6-2-极摩客k6微形主机amd-7840hs.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/6-3-电脑变压器.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/6-微型主机.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/6-微型主机.cfg filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/7-1-1-音响孔布.par filter=lfs diff=lfs merge=lfs -text
+"b-Module-SE/Athena      2.0标准版本（三元锂电池）.cfg" filter=lfs diff=lfs merge=lfs -text
+"b-Module-SE/l-内六角平圆头螺钉-GBT70.2-2015_M5X8 2.par" filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/l-内六角平圆头螺钉-GBT70.2-2015_M5X8.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/00-ATHEAN20-ALL-20221013_ASM_30_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/00-ATHEAN20-ALL-20221013_ASM_30_ASM.cfg filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/00-ATHEAN20-ALL-20221013_ASM_30_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/00-ATHEAN20-ALL-20221013_ASM_30_ASM_0.cfg filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0001_2_1_27_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0001_2_1_27_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0002_2_1_27_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0002_2_1_27_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0002_ASM_7_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0002_ASM_7_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0004_ASM_2_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0004_ASM_2_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0005_ASM_2_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0005_ASM_2_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0006_ASM_2_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0006_ASM_2_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0007_ASM_44_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0007_ASM_44_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0009_ASM_11_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0009_ASM_11_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0010_ASM_8_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0010_ASM_8_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0011_ASM_61_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0011_ASM_61_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0011_ASM_61_ASM_1_ASM_0.cfg filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0012_ASM_2_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/0012_ASM_2_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/00_34_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/00_34_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/03-HUB_1_17_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/03-HUB_1_17_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/111_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/111_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/1_1_2_STP0001_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/1_1_2_STP0001_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/1_1_STP0001_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/1_1_STP0001_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/24V-16AH_1_28_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/2_STP0001_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/2_STP0001_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/3_STP0001_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/3_STP0001_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/4_STP0001_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/4_STP0001_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/5CUN-1_STP_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/5CUN-1_STP_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/5G-SHUANG_1_STP_ASM_2_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/5G-SHUANG_1_STP_ASM_2_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/5G-SHUANG_STP_ASM_2_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/5G-SHUANG_STP_ASM_2_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/6_5C-H30-ZHOU-03_F__2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/6_5C-H30-ZHOU-03_F__2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/6_5C-H30_STP_ASM_2_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/6_5C-H30_STP_ASM_2_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/6_5C-HDG-KAIMO_STP_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/6_5C-HDG-KAIMO_STP_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/6_5C-QDG-KAIMO_STP_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/6_5C-QDG-KAIMO_STP_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/7_STP0001_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/7_STP0001_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AGV_23X-63H-32-BR_AGV_SW0001__2.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AH2-0002_15_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AH2-0002_15_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AH2-000_80_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AH2-000_80_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/ASM0008_ASM_2_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/ASM0008_ASM_2_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-0003_37_5_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-0003_37_5_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-000_47_1_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-000_47_1_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-000_47_2_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-000_47_2_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-000_ASM_33_ASM_2_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-000_ASM_33_ASM_2_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-0010_55_7_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-0010_55_7_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-00_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-00_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-10001_50_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-10001_50_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-10002_50_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-10002_50_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-20001_46_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-20001_46_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-20002_44_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-20002_44_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-M00-0014-AT2-000_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-M00-0014-AT2-000_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-M00-0058-0001_45_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-M00-0058-0001_45_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-M00-0069--EVA0001_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-M00-007-AT2-0001_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-M00-007-AT2-0001_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-M00-0078-AT2-H0001_9_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-M00-0078-AT2-H0001_9_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-M00-008-AT2-00_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-M00-008-AT2-00_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-M00-009-AT2-0001_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-M00-009-AT2-0001_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-M00-106-RYD000_25_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-M00-106-RYD000_25_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-_X2_51457535652F67B6_X0__4_.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/AT2-_X2_51457535652F67B6_X0__4__0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/ATHENA2_0-20240202_ASM_29_ASM_2_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/ATHENA2_0-20240202_ASM_29_ASM_2_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/ATHENA2_0-20240202_ASM_3_ASM_1__ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/ATHENA2_0-20240202_ASM_3_ASM_1__ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/ATHENA2_0001_ASM_36_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/ATHENA2_0001_ASM_36_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/ATHENA2_0_MID_BKT_28_2_1.par filter=lfs diff=lfs merge=lfs -text
+"b-Module-SE/雅典娜底盘/Athena 2.0标准版本（三元锂电池）(1).stp" filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/BATTERY_ASM_28_ASM_6_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/BATTERY_ASM_28_ASM_6_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/C1M1-01_ASM_1_ASM_1_1_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/C1M1-01_ASM_1_ASM_1_1_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/C1M1_APPEARANCE_V2_20230926_3D__ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/C1M1_APPEARANCE_V2_20230926_3D__ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/C1_ASM_1_ASM_1_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/C1_ASM_1_ASM_1_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_10_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_10_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_11_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_11_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_12_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_12_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_13_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_13_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_14_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_14_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_15_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_15_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_16_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_16_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_17_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_17_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_18_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_18_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_19_5_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_19_5_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_1_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_1_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_20_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_20_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_21_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_21_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_22_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_22_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_2_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_2_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_3_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_3_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_4_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_4_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_5_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_5_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_6_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_6_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_7_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_7_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_8_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_8_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_9_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_9_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_ASM_3_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DAVI0C08CA42KK0B_ASM_3_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DIANYUAN-KEY_1_1_1_30_4_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DIANYUAN-KEY_1_1_1_30_4_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DIANYUAN-KEY_1_2_1_30_4_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DIANYUAN-KEY_1_2_1_30_4_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DIANYUAN-KEY_1_ASM_1_ASM_32_ASM_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DIANYUAN-KEY_1_ASM_1_ASM_32_ASM_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/DIANYUAN-KEY_1_ASM_1_ASM_32_ASM_ASM_0.cfg filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/HBV-1911GS_V22_10000_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/HBV-1911GS_V22_10000_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/HC-1_5_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/HC-1_5_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/HMS-HUB0002_ASM_7_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/HMS-HUB0002_ASM_7_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/HUB00_ASM_19_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/HUB00_ASM_19_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/JITING-KEY_1_1_31_4_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/JITING-KEY_1_1_31_4_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/KANGYANG_SWCM-1_8_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/KANGYANG_SWCM-1_8_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/L_1_1_28_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/L_1_1_28_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/L_1_2_28_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/L_1_2_28_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/L_1_3_28_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/L_1_3_28_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/L_1_4_28_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/L_1_4_28_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/L_1_5_28_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/L_1_5_28_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/L_1_ASM_28_ASM_2_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/L_1_ASM_28_ASM_2_ASM_1_ASM.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/L_1_ASM_28_ASM_2_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/L_1_ASM_28_ASM_2_ASM_1_ASM_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/M3-6L-SCREW_40_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/M3-6L-SCREW_40_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/M3L6_SCREW_7_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/M3L6_SCREW_7_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MANIFOLD_SOLID_BREP_6689_STP_2_.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MANIFOLD_SOLID_BREP_6689_STP_2__0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MANIFOLD_SOLID_BREP_7812_STP_2_.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MANIFOLD_SOLID_BREP_7812_STP_2__0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MANIFOLD_SOLID_BREP__940_1_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MANIFOLD_SOLID_BREP__940_1_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MANIFOLD_SOLID_BREP__941_1_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MANIFOLD_SOLID_BREP__941_1_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MANIFOLD_SOLID_BREP__942_1_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MANIFOLD_SOLID_BREP__942_1_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MANIFOLD_SOLID_BREP__943_1_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MANIFOLD_SOLID_BREP__943_1_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MANIFOLD_SOLID_BREP__944_1_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MANIFOLD_SOLID_BREP__944_1_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/ME_ASM_45_ASM_11_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/ME_ASM_45_ASM_11_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MRY2-M01-026-MRY2-0001_1_4_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MRY2-M01-026-MRY2-0001_1_4_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MRY2-M01-028-MRY2-000_1_4_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MRY2-M01-028-MRY2-000_1_4_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MRY2-M01-039-MRY2-0001_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MRY2-M01-039-MRY2-0001_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MRY2-M01-040-MRY2-0001_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/MRY2-M01-040-MRY2-0001_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/NUWA-XB40-3D_FOV000_ASM_1_ASM_2_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/NUWA-XB40-3D_FOV000_ASM_1_ASM_2_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/NWX_WK_0530_1_1_126_1_1_1_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/NWX_WK_0530_1_1_126_1_1_1_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/NWX_WK_0530_1_1_126_2_1_1_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/NWX_WK_0530_1_1_126_2_1_1_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/NWX_WK_0530_1_1_126_ASM_1_ASM_2_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/NWX_WK_0530_1_1_126_ASM_1_ASM_2_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_BOARD_1_1-1_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_BOARD_1_1-1_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_C11_ASM_1_1_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_C11_ASM_1_1_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_C12_ASM_1_1_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_C12_ASM_1_1_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_C18_ASM_1_1_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_C18_ASM_1_1_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_C9_ASM_1_1__1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_C9_ASM_1_1__1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_J1_ASM_1_1__1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_J1_ASM_1_1__1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_R8_ASM_-133_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_R8_ASM_-133_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_R8_ASM_1-48_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_R8_ASM_1-48_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_R9_ASM_-128_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_R9_ASM_-128_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_R9_ASM_1-80_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_R9_ASM_1-80_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_U4_ASM_1_1__1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PCB_ASM_1_1_ASM-1_U4_ASM_1_1__1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PLACEMENT_ASM_39_ASM_15_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PLACEMENT_ASM_39_ASM_15_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PLACEMENT_ASM_39_ASM_15_ASM_1_ASM_0.cfg filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PRT0001_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/PRT0001_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/RY2-A01-003-MRY2-0001_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/RY2-A01-003-MRY2-0001_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/RYD-RK3399_ASM_4_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/RYD-RK3399_ASM_4_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/RYD339900_4_1_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/RYD339900_4_1_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/RYD339900_4_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/RYD339900_4_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/RYD339900_4_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/RYD339900_4_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/RYD339900_4_4_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/RYD339900_4_4_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/RYD339900_4_5_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/RYD339900_4_5_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/RYD339900_4_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/RYD339900_4_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/R_1_1_28_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/R_1_1_28_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/R_1_2_28_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/R_1_2_28_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/R_1_3_28_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/R_1_3_28_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/R_1_4_28_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/R_1_4_28_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/R_1_5_28_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/R_1_5_28_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/R_1_ASM_28_ASM_2_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/R_1_ASM_28_ASM_2_ASM_1_ASM.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/R_1_ASM_28_ASM_2_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/R_1_ASM_28_ASM_2_ASM_1_ASM_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_10_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_10_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_11_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_11_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_12_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_12_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_1_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_1_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_2_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_2_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_4_1_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_4_1_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_4_1_2.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_4_1_2_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_4_1_3.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_4_1_3_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_4_1_4.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_4_1_4_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_4_1_5.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_4_1_5_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_4_1_6.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_4_1_6_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_4_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_4_1_ASM.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_4_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_4_1_ASM_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_5_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_5_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_6_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_6_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_7_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_7_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_8_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_8_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_9_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_9_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_ASM_1_ASM.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/S2_2_ASM_1_ASM_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/SS_ASM_2_ASM_1_ASM_1_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/SS_ASM_2_ASM_1_ASM_1_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/STC-C0283-R0500010001_ASM_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/STC-C0283-R0500010001_ASM_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/STC-C0283-R05_10001_ASM_1_ASM_2_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/STC-C0283-R05_10001_ASM_1_ASM_2_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/Thumbs.db filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/USBFIREWIRE_COM-AM3_9_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/USBFIREWIRE_COM-AM3_9_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/USER_LIBRARY-USB_TYPE-C_PLUG_-1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/USER_LIBRARY-USB_TYPE-C_PLUG_-1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/ZLLG65ASM250-L_V3_08_1_ASM_2_AS_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/ZLLG65ASM250-L_V3_08_1_ASM_2_AS_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/ZLLG65ASM250-L_V3_ASM_3_ASM_1_ASM.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/ZLLG65ASM250-L_V3_ASM_3_ASM_1_ASM_0.asm filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/_X2_914D91CD5757_X0__1_4_3_1.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SE/雅典娜底盘/_X2_914D91CD5757_X0__1_4_3_1_0.par filter=lfs diff=lfs merge=lfs -text
+b-Module-SW/0-装配体.SLDASM filter=lfs diff=lfs merge=lfs -text
+b-Module-SW/零件.SLDPRT filter=lfs diff=lfs merge=lfs -text
+b-Office/BOM表.xlsx filter=lfs diff=lfs merge=lfs -text
+b-Office/立项报告.doc filter=lfs diff=lfs merge=lfs -text
+b-Office/项目报告.pptx filter=lfs diff=lfs merge=lfs -text
+b-Picture/安装屏幕效果图.PNG filter=lfs diff=lfs merge=lfs -text
+b-References/Slamtec-Athena/Athena_2.0_Datasheet_v1.9.pdf filter=lfs diff=lfs merge=lfs -text
+b-References/Slamtec-Athena/Athena_2.0_User_Manual_v1.9.pdf filter=lfs diff=lfs merge=lfs -text
+b-References/Slamtec-Athena/Athena_Datasheet_v1.0.pdf filter=lfs diff=lfs merge=lfs -text
+b-References/Slamtec-Athena/Athena_User_Manual_v1.1.pdf filter=lfs diff=lfs merge=lfs -text
+b-References/Slamtec-Athena/Upper-Computer-Android/slamware_sdk_android.2.8.8-rtm.20220610.tar.gz filter=lfs diff=lfs merge=lfs -text
+b-References/Slamtec-Athena/Upper-Computer-Android/slamware_sdk_android_2.8.8_extracted/slamware_sdk_android/jniLibs/libs/arm64-v8a/librpsdk.so filter=lfs diff=lfs merge=lfs -text
+b-References/Slamtec-Athena/Upper-Computer-Android/slamware_sdk_android_2.8.8_extracted/slamware_sdk_android/jniLibs/libs/armeabi-v7a/librpsdk.so filter=lfs diff=lfs merge=lfs -text
+b-References/Slamtec-Athena/Upper-Computer-Android/slamware_sdk_android_2.8.8_extracted/slamware_sdk_android/jniLibs/libs/x86/librpsdk.so filter=lfs diff=lfs merge=lfs -text
+b-References/Slamtec-Athena/Upper-Computer-Android/slamware_sdk_android_2.8.8_extracted/slamware_sdk_android/slamware_sdk_android.jar filter=lfs diff=lfs merge=lfs -text
